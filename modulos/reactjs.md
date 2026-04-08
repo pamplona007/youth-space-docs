@@ -311,4 +311,10 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta REACT JS — Google Drive](https://drive.google.com/drive/folders/1ama97L_u2QUdCjFWc52MggqDj5nd48P4)
+
+---
+
 #modulo #react #frontend #hooks #jsx #routing #fullstack

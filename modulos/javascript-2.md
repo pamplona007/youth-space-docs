@@ -236,4 +236,16 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta 03. JAVASCRIPT II — Google Drive](https://drive.google.com/drive/folders/1xzgDTvZqr_eaAOUsV4L9L00St_VVnfvr)
+- [Mod3 JS- Aula 06 - DOM.pptx](https://drive.google.com/file/d/16vEU8l-h3H4KnGpNSdD95WN3FylML1WO/view)
+- [Mod3 JS- Aula 07 - DOM.pptx](https://drive.google.com/file/d/1_BZoxCavch2FA132iZxAve4dke5dpJ8H/view)
+- [Mod3 JS- Aula 08 - Eventos.pptx](https://drive.google.com/file/d/14YzVNBj4CJUp-WPi91WcPg04uUb7oFa2/view)
+- [Mod3 JS- Aula 09 - Eventos.pptx](https://drive.google.com/file/d/11VoCinXh_-CNNw1aeUCiWl8tYCNbaRg8/view)
+- [Mod3 JS - Aula 11.pptx](https://drive.google.com/file/d/1ZlTh1gJHm_YcCkZSU_P9WYsaIJizEPKx/view)
+- [Material complementar JSON.docx](https://drive.google.com/file/d/1uGPlb1bgG2j1pq5ojGxzk4YIs8jDLd9b/view)
+
+---
+
 #modulo #javascript #logica #dom #arrays #objetos #fullstack

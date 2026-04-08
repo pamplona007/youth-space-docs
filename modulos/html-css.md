@@ -154,4 +154,11 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta 01. HTML E CSS — Google Drive](https://drive.google.com/drive/folders/1rDSrjEk0oNbQrHGKUj3L4iSaLnk6Itiy)
+- [HTML E CSS - AULA 01 (PPTX)](https://drive.google.com/file/d/1YgfD3Ac54uEsT0ro54cNkVW_MGCXDMgY/view)
+
+---
+
 #modulo #html #css #fullstack

@@ -305,4 +305,10 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta GIT + NODE.JS — Google Drive](https://drive.google.com/drive/folders/1QXe9Pq4K1Fc-L8dQXmHXtdWCllCIOVjk)
+
+---
+
 #modulo #nodejs #express #git #github #api #rest #jwt #fullstack

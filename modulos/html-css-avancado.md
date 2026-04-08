@@ -165,4 +165,10 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta 04. HTML E CSS AVANÇADO — Google Drive](https://drive.google.com/drive/folders/15pz_9xZJv8aorLUfQgWzLp5lU5TIc_6r)
+
+---
+
 #modulo #css #avancado #grid #responsivo #animacoes #bem #fullstack

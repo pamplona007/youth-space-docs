@@ -322,4 +322,10 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Materiais do Professor
+
+- [Pasta UX-UI E FIGMA — Google Drive](https://drive.google.com/drive/folders/1l7A-mSiWNzCbrseNZ-1sMREz4OzYpxBd)
+
+---
+
 #modulo #ux #ui #figma #design #wireframe #prototyping #fullstack

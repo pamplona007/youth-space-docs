@@ -202,4 +202,10 @@
 
 ---
 
+## Materiais do Professor
+
+- [Pasta PROJETO FINAL — Google Drive](https://drive.google.com/drive/folders/1vSoJG5IWZhKNbtRxbulNAuzDF1Ds7xG0)
+
+---
+
 #modulo #projeto-final #fullstack #integracao
