@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Cursos que utilizam este módulo:** [Fullstack Python](cursos/fullstack-python.md) · [Data Science](cursos/data-science.md)
+- **Cursos que utilizam este módulo:** [Fullstack Python](../cursos/fullstack-python.md) · [Data Science](../cursos/data-science.md)
 
 ---
 ## Aulas
@@ -303,15 +303,15 @@ Ao final do módulo, o aluno entrega:
 
 ## Recursos Complementares
 
-- [Info](recursos/dax/vendas-mais/info.md)
-- [Exercicios](recursos/dax/vendas-mais/exercicios.md)
-- [Resolucoes](recursos/dax/vendas-mais/resolucoes.md)
+- [Info](../recursos/dax/vendas-mais/info.md)
+- [Exercicios](../recursos/dax/vendas-mais/exercicios.md)
+- [Resolucoes](../recursos/dax/vendas-mais/resolucoes.md)
 
 ---
 
 ## Próximo módulo
 
-→ [Aws](modulos/aws.md) ou [Aws Git Data](modulos/aws-git-data.md)
+→ [Aws](../modulos/aws.md) ou [Aws Git Data](../modulos/aws-git-data.md)
 
 ---
 

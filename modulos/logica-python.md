@@ -6,7 +6,7 @@
 
 - **Aulas:** 2 (de 4h cada)
 - **Carga horária:** 8h
-- **Cursos que utilizam este módulo:** [Fullstack Python](cursos/fullstack-python.md) · [Data Science](cursos/data-science.md)
+- **Cursos que utilizam este módulo:** [Fullstack Python](../cursos/fullstack-python.md) · [Data Science](../cursos/data-science.md)
 
 ---
 ## Aulas
@@ -88,7 +88,7 @@
 
 ## Próximo módulo
 
-→ [Python Bancos Dados](modulos/python-bancos-dados.md)
+→ [Python Bancos Dados](../modulos/python-bancos-dados.md)
 
 ---
 

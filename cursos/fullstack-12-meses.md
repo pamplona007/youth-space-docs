@@ -16,8 +16,8 @@
 
 ### Fase 1 — Fundamentos (linear)
 
-| Módulo                                            | Aulas | Carga Horária |
-| ------------------------------------------------- | ----- | ------------- |
+| Módulo                                               | Aulas | Carga Horária |
+| ---------------------------------------------------- | ----- | ------------- |
 | [Html Css](../modulos/html-css.md)                   | 4     | 16h           |
 | [Javascript 1](../modulos/javascript-1.md)           | 2     | 8h            |
 | [Javascript 2](../modulos/javascript-2.md)           | 6     | 24h           |

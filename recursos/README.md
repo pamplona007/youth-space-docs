@@ -4,7 +4,7 @@
 
 ## Temas Disponíveis
 
-### [Info](dax/vendas-mais/info.md)
+### [Info](../dax/vendas-mais/info.md)
 Exercícios práticos de DAX usando dados fictícios de uma distribuidora brasileira.
 
 **Contém:**

@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Posição na trilha:** [Data Science#fase 2 Especializacao Circular](cursos/data-science#fase-2--especializacao-circular.md)
+- **Posição na trilha:** [Data Science#fase 2 Especializacao Circular](../cursos/data-science#fase-2--especializacao-circular.md)
 
 ---
 ## Aulas
@@ -307,7 +307,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [Data Analytics 2](modulos/data-analytics-2.md)
+→ [Data Analytics 2](../modulos/data-analytics-2.md)
 
 ---
 

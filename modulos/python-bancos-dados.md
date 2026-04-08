@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Cursos que utilizam este módulo:** [Fullstack Python](cursos/fullstack-python.md) · [Data Science](cursos/data-science.md)
+- **Cursos que utilizam este módulo:** [Fullstack Python](../cursos/fullstack-python.md) · [Data Science](../cursos/data-science.md)
 
 ---
 ## Aulas
@@ -303,7 +303,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [Rest Api Git](modulos/rest-api-git.md)
+→ [Rest Api Git](../modulos/rest-api-git.md)
 
 ---
 

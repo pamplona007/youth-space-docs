@@ -6,7 +6,7 @@
 
 - **Aulas:** 8 (de 4h cada)
 - **Carga horária:** 32h
-- **Posição na trilha:** [Fullstack 12 Meses#fase 2 Especializacao Circular](cursos/fullstack-12-meses#fase-2--especializacao-circular.md)
+- **Posição na trilha:** [Fullstack 12 Meses#fase 2 Especializacao Circular](../cursos/fullstack-12-meses#fase-2--especializacao-circular.md)
 
 ---
 ## Aulas
@@ -318,7 +318,7 @@ Ao final do módulo, o aluno entrega:
 
 ## Próximo módulo
 
-→ [Projeto Final](modulos/projeto-final.md)
+→ [Projeto Final](../modulos/projeto-final.md)
 
 ---
 

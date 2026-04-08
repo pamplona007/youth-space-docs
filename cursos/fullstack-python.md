@@ -16,11 +16,11 @@
 
 ### Fase 1 — Fundamentos (linear)
 
-| Módulo | Aulas | Carga Horária |
-|--------|-------|---------------|
-| [Logica Python](../modulos/logica-python.md) | 2 | 8h |
-| [Python Bancos Dados](../modulos/python-bancos-dados.md) | 8 | 32h |
-| [Rest Api Git](../modulos/rest-api-git.md) | 8 | 32h |
+| Módulo                                                   | Aulas | Carga Horária |
+| -------------------------------------------------------- | ----- | ------------- |
+| [Logica Python](../modulos/logica-python.md)             | 2     | 8h            |
+| [Python Bancos Dados](../modulos/python-bancos-dados.md) | 8     | 32h           |
+| [Rest Api Git](../modulos/rest-api-git.md)               | 8     | 32h           |
 
 ### Fase 2 — Especialização (circular)
 
