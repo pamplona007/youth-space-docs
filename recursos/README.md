@@ -4,10 +4,10 @@
 
 ## Temas Disponíveis
 
-### [[materials|Materiais — Youth Space]]
+### [Materiais — Youth Space](materials)
 Materiais didáticos do professor (slides, exercícios, projetos em PDF/PPTX/DOCX no Google Drive).
 
-### [[dax/vendas-mais/info|Info]]
+### [Info](dax/vendas-mais/info)
 Exercícios práticos de DAX usando dados fictícios de uma distribuidora brasileira.
 
 **Contém:**

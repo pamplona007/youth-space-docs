@@ -65,7 +65,7 @@
 3. Criar tabela de datas customizada com Python script dentro do Power Query
 
 **Recursos:**
-- [SQLBI - Star Schema](https://www.sqlbi.com/articles/from-flat-to-star/)
+- [SQLBI - Star Schema](https://www.sqlbi.com/articles/power-bi-star-schema-or-single-table/)
 - [Microsoft - Create Date Table](https://learn.microsoft.com/pt-br/power-bi/guidance/model-date-tables)
 
 **Tarefas de casa (escolha uma ou mais):**
@@ -204,7 +204,7 @@
 3. Criar versão mobile de um relatório existente com layout otimizado
 
 **Recursos:**
-- [Power BI Service Docs](https://learn.microsoft.com/pt-br/power-bi/consumer/end-user-service-overview)
+- [Power BI Service Docs](https://learn.microsoft.com/pt-br/power-bi/fundamentals/power-bi-overview)
 - [Power BI Mobile](https://learn.microsoft.com/pt-br/power-bi/consumer/mobile/)
 
 **Tarefas de casa (escolha uma ou mais):**

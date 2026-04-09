@@ -62,8 +62,8 @@
 
 **Recursos:**
 - [MDN - Responsive Design](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Responsive_Design)
-- [MDN - clamp()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/clamp)
-- [MDN - srcset](https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLImageElement/srcset)
+- [MDN - clamp()](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties)
+- [MDN - srcset](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Guides/Responsive_images)
 - [Responsively App](https://responsively.app/) — ferramenta de teste responsivo
 
 **Tarefas de casa (escolha uma ou mais):**

@@ -33,6 +33,8 @@
 - [Pandas Docs](https://pandas.pydata.org/docs/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets) — datasets gratuitos
 - [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+- [DataWars](https://www.datawars.io/) (projetos interativos de Data Science)
+- [Seeing Theory](https://seeing-theory.brown.edu/) (visualização interativa de estatística)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Explorar dataset público do IBGE (população, economia) no Jupyter

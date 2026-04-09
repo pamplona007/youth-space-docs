@@ -166,9 +166,11 @@
 3. E-commerce: tabelas produtos, categorias, vendas — faturamento por categoria, produto mais vendido
 
 **Recursos:**
-- [SQLBolt - Interactive SQL](https://sqlbolt.com/)
-- [Mode SQL Tutorial](https://mode.com/sql-tutorial/)
-- [Lucidchart - ER Diagram](https://www.lucidchart.com/)
+- [SQLBolt - Interactive SQL](https://sqlbolt.com/) (lições interativas)
+- [SQL Murder Mystery](https://mystery.knightlab.com/) (resolva um crime com SQL)
+- [Lost at SQL](https://lost-at-sql.therobinlord.com/) (jogo de SQL estilo "choose your own adventure")
+- [Mode SQL Tutorial](https://mode.com/sql-tutorial/) (tutorial completo)
+- [Lucidchart - ER Diagram](https://www.lucidchart.com/) (diagramas ER)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Criar modelo ER de um sistema hospitalar (pacientes, médicos, consultas, exames)

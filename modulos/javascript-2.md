@@ -134,7 +134,7 @@
 - [MDN - DOM Introduction](https://developer.mozilla.org/pt-BR/docs/Web/API/Document_object_model/Introduction)
 - [MDN - querySelector](https://developer.mozilla.org/pt-BR/docs/Web/API/Document/querySelector)
 - [MDN - addEventListener](https://developer.mozilla.org/pt-BR/docs/Web/API/EventTarget/addEventListener)
-- [DOM Playground](https://chrome developer tools → Elements panel)
+- [DOM Playground](https://developer.mozilla.org/pt-BR/docs/Tools/Page_Inspector) — prática com DevTools
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Simulador de loteria: input para número apostado, botão para sortear, exibir resultado (acertou ou não)

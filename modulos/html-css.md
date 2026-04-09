@@ -123,7 +123,8 @@
 
 **Recursos:**
 - [CSS Grid Garden](https://cssgridgarden.com/) (joguinho interativo)
-- [MDN - CSS Grid](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Grids)
+- [Coding Fantasy - CSS](https://codingfantasy.com/) (joguinho completo de CSS)
+- [MDN - CSS Grid](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Guides/Grid_layout)
 - [MDN - Media Queries](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Responsive_design)
 
 **Tarefas de casa (escolha uma ou mais):**

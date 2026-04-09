@@ -62,7 +62,9 @@
 
 **Recursos:**
 - [GitHub Docs](https://docs.github.com/pt)
-- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR) (visualize branchs e comandos)
+- [Oh My Git!](https://ohmygit.org/) (jogo interativo de Git)
+- [Learn Git/Bash CLI Game](https://github.com/Gerald-Lofton/Learn_Git_BASH_CLI_Game) (jogo de terminal)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Criar perfil profissional no GitHub com README customizado

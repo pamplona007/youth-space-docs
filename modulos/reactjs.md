@@ -126,9 +126,9 @@
 - Diferença entre effect e event handler
 
 **Exercícios práticos (escolha um):**
-1. Componente que busca dados de usuário via API ao carregar: https://api.github.com/users/{username}, exibe avatar, nome e bio
+1. Componente que busca dados de usuário via API ao carregar: `https://api.github.com/users/{username}` — substitua `{username}` por um usuário real, exibe avatar, nome e bio
 2. Timer com useEffect: display de segundos que atualiza a cada segundo, botão para iniciar/pausar
-3. Lista de posts buscando de API: https://jsonplaceholder.typicode.com/posts, renderizar títulos em lista
+3. Lista de posts buscando de API: `https://jsonplaceholder.typicode.com/posts` — renderizar títulos em lista
 
 **Recursos:**
 - [React.dev - useEffect](https://react.dev/reference/react/useEffect)
@@ -138,7 +138,7 @@
 **Tarefas de casa (escolha uma ou mais):**
 1. Perfil de weather: input de cidade, buscar temperatura via API open-meteo (gratuita), exibir clima atual
 2. Relógio mundial: selecionar timezone, usar `setInterval` com cleanup adequado
-3. Lista de Pokémon: buscar lista de https://pokeapi.co/api/v2/pokemon/, renderizar cards com nome e imagem
+3. Lista de Pokémon: buscar lista de `https://pokeapi.co/api/v2/pokemon/` — renderizar cards com nome e imagem
 4. To-Do com persistência: toda mudança de estado salva no localStorage via useEffect
 5. Auto-save: textarea que salva automaticamente no localStorage após 2 segundos sem digitação
 
@@ -167,7 +167,7 @@
 **Recursos:**
 - [React.dev - Context](https://react.dev/reference/react/createContext)
 - [React.dev - Scaling Up with Reducer and Context](https://react.dev/learn/scaling-up-with-reducer-and-context)
-- [Kent C. Dodds - Context is not composition](https://kentcdodds.com/blog/context-is-not-a-state-management-solution)
+- [Kent C. Dodds - Context is not composition](https://kentcdodds.com/blog/how-to-use-react-context-effectively)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. LanguageContext: contexto de idioma, componentes que renderizam textos diferentes baseado na seleção
@@ -235,8 +235,8 @@
 
 **Recursos:**
 - [Axios Docs](https://axios-http.com/ptbr/docs/intro)
-- [MDN - AbortController](https://developer.mozilla.org/pt-BR/docs/Web/API/AbortController)
-- [ViaCEP](https://viaceep.com.br/) — API gratuita de CEP
+- [MDN - AbortController](https://developer.mozilla.org/pt-BR/docs/Web/API/AbortController/abort)
+- [ViaCEP](https://viacep.com.br/) — API gratuita de CEP
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Cloninha do GitHub user finder: input de username, buscar dados do usuário, renderizar perfil com avatar, bio, seguidores

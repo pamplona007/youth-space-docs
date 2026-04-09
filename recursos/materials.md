@@ -137,31 +137,31 @@ DFS PYTHON/ (ID: 1o60Gd6EqKQpCQe8BKHaI0LId8p-NEtsc)
 
 | Nosso Módulo | Pasta do Drive | Materiais |
 |--------------|----------------|-----------|
-| [[../modulos/html-css|html-css]] | 01. HTML E CSS | Aulas 01-08 |
-| [[../modulos/javascript-1|javascript-1]] + [[../modulos/javascript-2|javascript-2]] | 02. LÓGICA JS + 03. JS II | DOM, Eventos, JSON |
-| [[../modulos/html-css-avancado|html-css-avancado]] | 04. HTML E CSS AVANÇADO | — |
-| [[../modulos/nodejs-git-github|nodejs-git-github]] | GIT + NODE.JS | — |
-| [[../modulos/reactjs|reactjs]] | REACT JS | — |
-| [[../modulos/ux-ui-figma|ux-ui-figma]] | UX-UI E FIGMA | — |
-| [[../modulos/projeto-final|projeto-final]] | PROJETO FINAL | — |
+| [html-css](../modulos/html-css) | 01. HTML E CSS | Aulas 01-08 |
+| [javascript-1](../modulos/javascript-1) + [javascript-2](../modulos/javascript-2) | 02. LÓGICA JS + 03. JS II | DOM, Eventos, JSON |
+| [html-css-avancado](../modulos/html-css-avancado) | 04. HTML E CSS AVANÇADO | — |
+| [nodejs-git-github](../modulos/nodejs-git-github) | GIT + NODE.JS | — |
+| [reactjs](../modulos/reactjs) | REACT JS | — |
+| [ux-ui-figma](../modulos/ux-ui-figma) | UX-UI E FIGMA | — |
+| [projeto-final](../modulos/projeto-final) | PROJETO FINAL | — |
 
 ### Python Full Stack
 
 | Nosso Módulo | Pasta do Drive | Materiais |
 |--------------|----------------|-----------|
-| [[../modulos/logica-python|logica-python]] | 01. LÓGICA DA PROGRAMAÇÃO | Python, Condicionais, Loops, Listas |
-| [[../modulos/python-bancos-dados|python-bancos-dados]] | 02. PYTHON + BANCO_ | Funções, libs, SQL, Tuplas, POO |
-| [[../modulos/rest-api-git|rest-api-git]] | GIT E AWS > GIT | GitHub aulas 1-4 |
-| [[../modulos/flask|flask]] | FAST API | POO, Tratamento de erro, Flask |
-| [[../modulos/aws|aws]] | GIT E AWS > AWS | AWS aulas 1-6 |
+| [logica-python](../modulos/logica-python) | 01. LÓGICA DA PROGRAMAÇÃO | Python, Condicionais, Loops, Listas |
+| [python-bancos-dados](../modulos/python-bancos-dados) | 02. PYTHON + BANCO_ | Funções, libs, SQL, Tuplas, POO |
+| [rest-api-git](../modulos/rest-api-git) | GIT E AWS > GIT | GitHub aulas 1-4 |
+| [flask](../modulos/flask) | FAST API | POO, Tratamento de erro, Flask |
+| [aws](../modulos/aws) | GIT E AWS > AWS | AWS aulas 1-6 |
 
 ### Data Science
 
 | Nosso Módulo | Pasta do Drive | Materiais |
 |--------------|----------------|-----------|
-| [[../modulos/logica-python|logica-python]] | 01. LÓGICA DA PROGRAMAÇÃO | Python, Listas |
-| [[../modulos/python-bancos-dados|python-bancos-dados]] | 02. PYTHON + BANCO_ | SQL, Tuplas, Bibliotecas |
-| [[../modulos/aws-git-data|aws-git-data]] | GIT E AWS > AWS | AWS aulas 1-6 |
+| [logica-python](../modulos/logica-python) | 01. LÓGICA DA PROGRAMAÇÃO | Python, Listas |
+| [python-bancos-dados](../modulos/python-bancos-dados) | 02. PYTHON + BANCO_ | SQL, Tuplas, Bibliotecas |
+| [aws-git-data](../modulos/aws-git-data) | GIT E AWS > AWS | AWS aulas 1-6 |
 
 ---
 

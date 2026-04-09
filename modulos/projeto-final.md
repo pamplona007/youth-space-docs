@@ -28,7 +28,7 @@
 
 **Recursos:**
 - [GitHub Projects - Official Guide](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
-- [MoSCoW Method](https://www.agilebusiness.org/page/ProjectManagement14) — priorização de requisitos
+- [MoSCoW Method](https://www.atlassian.com/agile/project-management) — priorização de requisitos
 
 **Tempo:** 4h (1h revisão Git/GitHub + 1h GitHub Projects + 2h planejamento)
 

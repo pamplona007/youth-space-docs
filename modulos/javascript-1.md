@@ -67,6 +67,8 @@
 - [MDN - Loops](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Control_flow_and_error_handling)
 - [MDN - Functions](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions)
 - [Freecodecamp - JavaScript Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- [Coding Fantasy - JavaScript](https://codingfantasy.com/) (joguinho interativo de JS)
+- [CodeCombat](https://codecombat.com/) (aprenda JS jogando RPG)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Contador regressivo: receber um número e contar até zero no console

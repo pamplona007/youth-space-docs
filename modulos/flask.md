@@ -234,7 +234,7 @@
 **Recursos:**
 - [Docker Official Docs](https://docs.docker.com/)
 - [Render - Flask Deploy](https://render.com/docs/deploy-flask)
-- [Real Python - Docker Flask](https://realpython.com/docker-in-action-faq/)
+- [Real Python - Docker Flask](https://realpython.com/tutorials/docker/)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Dockerizar todos os projetos do módulo

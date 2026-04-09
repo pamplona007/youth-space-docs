@@ -33,6 +33,8 @@
 - [Python Official Docs](https://docs.python.org/pt-br/3/)
 - [W3Schools Python](https://www.w3schools.com/python/)
 - [CS50P - Lecture 0](https://cs50.harvard.edu/python/2022/weeks/0/)
+- [CheckiO](https://checkio.org/) (desafios de Python gamificados)
+- [CodeCombat](https://codecombat.com/) (aprenda Python jogando RPG)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Conversor de temperatura: pedir valor e unidade (C/F/K), converter para as outras duas

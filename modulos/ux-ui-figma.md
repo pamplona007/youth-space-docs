@@ -210,7 +210,7 @@
 
 **Recursos:**
 - [Figma - Prototyping](https://help.figma.com/hc/en-us/articles/360040314193)
-- [Figma - Smart Animate](https://help.figma.com/hc/en-us/articles/360040537395)
+- [Figma - Smart Animate](https://help.figma.com/hc/en-us/articles/360038507955)
 - [Dribbble](https://dribbble.com/) — inspiração de UI
 
 **Tarefas de casa (escolha uma ou mais):**
@@ -245,9 +245,9 @@
 3. Criar redline document: especificar todos os espaçamentos, cores e fontes de uma tela para o dev
 
 **Recursos:**
-- [Figma - Resizing](https://help.figma.com/hc/en-us/articles/360040570406)
+- [Figma - Resizing](https://help.figma.com/hc/en-us/articles/360038510876-Guide-to-resizing)
 - [Iconify](https://iconify.design/) — ícones para todos os frameworks
-- [Figma Inspect](https://help.figma.com/hc/en-us/articles/360055785053)
+- [Figma Inspect](https://help.figma.com/hc/en-us/articles/360040521453-Optimize-design-files-for-developer-handoff)
 
 **Tarefas de casa (escolha uma ou mais):**
 1. Desenvolver versão mobile de um app de delivery: todas as telas adaptadas para 375px

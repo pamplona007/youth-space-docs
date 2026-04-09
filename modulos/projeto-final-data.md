@@ -30,7 +30,7 @@
 **Recursos:**
 - [Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
-- [Google Dataset Search](https://datasetsearch.research.google/)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
 
 **Tempo:** 4h (1h revisão + 1h GitHub Projects + 2h planejamento e EDA inicial)
 
