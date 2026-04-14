@@ -307,6 +307,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Ambiente e Pandas Básico (Aula 1)](../kahoots/15-data-analytics-1.md#kahoot-1-ambiente-e-pandas-básico-aula-1) — 5 perguntas
+- [Kahoot 2: Limpeza e Preparação de Dados (Aula 2)](../kahoots/15-data-analytics-1.md#kahoot-2-limpeza-e-preparação-de-dados-aula-2) — 5 perguntas
+- [Kahoot 3: GroupBy e Agregações (Aula 3)](../kahoots/15-data-analytics-1.md#kahoot-3-groupby-e-agregações-aula-3) — 5 perguntas
+- [Kahoot 4: Visualização Matplotlib e Seaborn (Aula 4)](../kahoots/15-data-analytics-1.md#kahoot-4-visualização-matplotlib-e-seaborn-aula-4) — 5 perguntas
+- [Kahoot 5: Visualização Interativa Plotly (Aula 5)](../kahoots/15-data-analytics-1.md#kahoot-5-visualização-interativa-plotly-aula-5) — 4 perguntas
+- [Kahoot 6: Estatística para Data Science (Aula 6)](../kahoots/15-data-analytics-1.md#kahoot-6-estatística-para-data-science-aula-6) — 4 perguntas
+- [Kahoot 7: Séries Temporais (Aula 7)](../kahoots/15-data-analytics-1.md#kahoot-7-séries-temporais-aula-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Data Analytics 2](../modulos/data-analytics-2.md)

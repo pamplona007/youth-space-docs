@@ -306,6 +306,19 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Flask e Templates Jinja2 (Aula 1)](../kahoots/11-flask.md#kahoot-1-flask-e-templates-jinja2-aula-1) — 6 perguntas
+- [Kahoot 2: Formulários com WTForms (Aula 2)](../kahoots/11-flask.md#kahoot-2-formulários-com-wtforms-aula-2) — 4 perguntas
+- [Kahoot 3: Flask-Login e Autenticação (Aula 3)](../kahoots/11-flask.md#kahoot-3-flask-login-e-autenticação-aula-3) — 4 perguntas
+- [Kahoot 4: Flask-SQLAlchemy Avançado (Aula 4)](../kahoots/11-flask.md#kahoot-4-flask-sqlalchemy-avançado-aula-4) — 4 perguntas
+- [Kahoot 5: Blueprints e Estrutura de Projeto (Aula 5)](../kahoots/11-flask.md#kahoot-5-blueprints-e-estrutura-de-projeto-aula-5) — 4 perguntas
+- [Kahoot 6: Upload, Email e Docker (Aulas 6-7)](../kahoots/11-flask.md#kahoot-6-upload-email-e-docker-aula-6-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Power Bi](../modulos/power-bi.md)

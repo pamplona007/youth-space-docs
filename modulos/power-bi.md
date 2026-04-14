@@ -315,6 +315,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Power Query e Introdução (Aula 1)](../kahoots/12-power-bi.md#kahoot-1-power-query-e-introdução-aula-1) — 4 perguntas
+- [Kahoot 2: Modelagem de Dados (Aula 2)](../kahoots/12-power-bi.md#kahoot-2-modelagem-de-dados-aula-2) — 4 perguntas
+- [Kahoot 3: DAX Básico (Aula 3)](../kahoots/12-power-bi.md#kahoot-3-dax-básico-aula-3) — 5 perguntas
+- [Kahoot 4: DAX Time Intelligence (Aula 4)](../kahoots/12-power-bi.md#kahoot-4-dax-time-intelligence-aula-4) — 5 perguntas
+- [Kahoot 5: Visualizações (Aula 5)](../kahoots/12-power-bi.md#kahoot-5-visualizações-aula-5) — 4 perguntas
+- [Kahoot 6: Power BI Service e Deploy (Aula 6)](../kahoots/12-power-bi.md#kahoot-6-power-bi-service-e-deploy-aula-6) — 3 perguntas
+- [Kahoot 7: Power BI + Python (Aula 7)](../kahoots/12-power-bi.md#kahoot-7-power-bi--python-aula-7) — 2 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Aws](../modulos/aws.md) ou [Aws Git Data](../modulos/aws-git-data.md)

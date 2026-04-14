@@ -310,6 +310,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Git para Data Science (Aula 1)](../kahoots/14-aws-git-data.md#kahoot-1-git-para-data-science-aula-1) — 4 perguntas
+- [Kahoot 2: AWS IAM, EC2 e S3 para Dados (Aula 2)](../kahoots/14-aws-git-data.md#kahoot-2-aws-iam-ec2-e-s3-para-dados-aula-2) — 4 perguntas
+- [Kahoot 3: AWS Glue e ETL (Aula 3)](../kahoots/14-aws-git-data.md#kahoot-3-aws-glue-e-etl-aula-3) — 4 perguntas
+- [Kahoot 4: AWS Athena (Aula 4)](../kahoots/14-aws-git-data.md#kahoot-4-aws-athena-aula-4) — 3 perguntas
+- [Kahoot 5: AWS Lambda para Dados (Aula 5)](../kahoots/14-aws-git-data.md#kahoot-5-aws-lambda-para-dados-aula-5) — 3 perguntas
+- [Kahoot 6: RDS e Redshift (Aula 6)](../kahoots/14-aws-git-data.md#kahoot-6-rds-e-redshift-aula-6) — 3 perguntas
+- [Kahoot 7: CloudWatch e Monitoramento (Aula 7)](../kahoots/14-aws-git-data.md#kahoot-7-cloudwatch-e-monitoramento-aula-7) — 3 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Power Bi](../modulos/power-bi.md)

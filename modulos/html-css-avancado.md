@@ -159,6 +159,17 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: CSS Grid Avançado (Aula 1)](../kahoots/05-html-css-avancado.md#kahoot-1-css-grid-avançado-aula-1) — 6 perguntas
+- [Kahoot 2: Responsividade e Mobile-First (Aula 2)](../kahoots/05-html-css-avancado.md#kahoot-2-responsividade-e-mobile-first-aula-2) — 7 perguntas
+- [Kahoot 3: Variáveis CSS e Animações (Aula 3)](../kahoots/05-html-css-avancado.md#kahoot-3-variáveis-css-e-animações-aula-3) — 8 perguntas
+- [Kahoot 4: BEM e Boas Práticas (Aula 4)](../kahoots/05-html-css-avancado.md#kahoot-4-bem-e-boas-práticas-aula-4) — 5 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Nodejs Git Github](../modulos/nodejs-git-github.md)

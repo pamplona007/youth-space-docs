@@ -316,6 +316,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: UX Fundamentos (Aula 1)](../kahoots/08-ux-ui-figma.md#kahoot-1-ux-fundamentos-aula-1) — 4 perguntas
+- [Kahoot 2: Wireframing e User Flow (Aula 2)](../kahoots/08-ux-ui-figma.md#kahoot-2-wireframing-e-user-flow-aula-2) — 4 perguntas
+- [Kahoot 3: Heurísticas de Nielsen e Acessibilidade (Aula 3)](../kahoots/08-ux-ui-figma.md#kahoot-3-heurísticas-de-nielsen-e-acessibilidade-aula-3) — 4 perguntas
+- [Kahoot 4: Figma Interface (Aula 4)](../kahoots/08-ux-ui-figma.md#kahoot-4-figma-interface-aula-4) — 4 perguntas
+- [Kahoot 5: Sistema de Design (Aula 5)](../kahoots/08-ux-ui-figma.md#kahoot-5-sistema-de-design-aula-5) — 4 perguntas
+- [Kahoot 6: Prototipagem (Aula 6)](../kahoots/08-ux-ui-figma.md#kahoot-6-prototipagem-aula-6) — 4 perguntas
+- [Kahoot 7: Design Responsivo e Handoff (Aula 7)](../kahoots/08-ux-ui-figma.md#kahoot-7-design-responsivo-e-handoff-aula-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Projeto Final](../modulos/projeto-final.md)

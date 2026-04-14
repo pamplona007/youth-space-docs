@@ -310,6 +310,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: AWS Fundamentos e IAM (Aula 1)](../kahoots/13-aws.md#kahoot-1-aws-fundamentos-e-iam-aula-1) — 4 perguntas
+- [Kahoot 2: EC2 (Aula 2)](../kahoots/13-aws.md#kahoot-2-ec2-aula-2) — 4 perguntas
+- [Kahoot 3: S3 (Aula 3)](../kahoots/13-aws.md#kahoot-3-s3-aula-3) — 4 perguntas
+- [Kahoot 4: RDS (Aula 4)](../kahoots/13-aws.md#kahoot-4-rds-aula-4) — 4 perguntas
+- [Kahoot 5: Lambda e Serverless (Aula 5)](../kahoots/13-aws.md#kahoot-5-lambda-e-serverless-aula-5) — 4 perguntas
+- [Kahoot 6: DynamoDB e SQS (Aula 6)](../kahoots/13-aws.md#kahoot-6-dynamodb-e-sqs-aula-6) — 4 perguntas
+- [Kahoot 7: CI/CD e DevOps (Aula 7)](../kahoots/13-aws.md#kahoot-7-cicd-e-devops-aula-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Projeto Final Python](../modulos/projeto-final-python.md)

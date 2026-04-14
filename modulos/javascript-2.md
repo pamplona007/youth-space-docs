@@ -230,6 +230,17 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Arrays e Métodos (Aulas 1-2)](../kahoots/04-javascript-2.md#kahoot-1-arrays-e-métodos-aula-1-2) — 10 perguntas
+- [Kahoot 2: Objetos e JSON (Aula 3)](../kahoots/04-javascript-2.md#kahoot-2-objetos-e-json-aula-3) — 6 perguntas
+- [Kahoot 3: DOM e Eventos (Aulas 4-5)](../kahoots/04-javascript-2.md#kahoot-3-dom-e-eventos-aula-4-5) — 8 perguntas
+- [Kahoot 4: Projeto To-Do e LocalStorage (Aula 6)](../kahoots/04-javascript-2.md#kahoot-4-projeto-to-do-e-localstorage-aula-6) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Html Css Avancado](../modulos/html-css-avancado.md)

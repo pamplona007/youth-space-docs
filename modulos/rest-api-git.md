@@ -306,6 +306,19 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Git para REST API (Aulas 1-2)](../kahoots/10-rest-api-git.md#kahoot-1-git-para-rest-api-aula-1-2) — 6 perguntas
+- [Kahoot 2: HTTP e REST com Flask (Aula 3)](../kahoots/10-rest-api-git.md#kahoot-2-http-e-rest-com-flask-aula-3) — 6 perguntas
+- [Kahoot 3: CRUD Completo com Flask (Aula 4)](../kahoots/10-rest-api-git.md#kahoot-3-crud-completo-com-flask-aula-4) — 4 perguntas
+- [Kahoot 4: Flask + SQLAlchemy (Aula 5)](../kahoots/10-rest-api-git.md#kahoot-4-flask--sqlalchemy-aula-5) — 4 perguntas
+- [Kahoot 5: Autenticação JWT (Aula 6)](../kahoots/10-rest-api-git.md#kahoot-5-autenticação-jwt-aula-6) — 5 perguntas
+- [Kahoot 6: Boas Práticas e Testes (Aula 7)](../kahoots/10-rest-api-git.md#kahoot-6-boas-práticas-e-testes-aula-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Flask](../modulos/flask.md)

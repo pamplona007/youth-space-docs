@@ -94,6 +94,15 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Variáveis, Operadores e Condicionais (Aula 1)](../kahoots/03-javascript-1.md#kahoot-1-variáveis-operadores-e-condicionais-aula-1) — 10 perguntas
+- [Kahoot 2: Loops, Funções e Prática (Aula 2)](../kahoots/03-javascript-1.md#kahoot-2-loops-funções-e-prática-aula-2) — 10 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Javascript 2](../modulos/javascript-2.md)

@@ -302,6 +302,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Introdução ao Machine Learning (Aula 1)](../kahoots/16-data-analytics-2.md#kahoot-1-introdução-ao-machine-learning-aula-1) — 4 perguntas
+- [Kahoot 2: Regressão (Aula 2)](../kahoots/16-data-analytics-2.md#kahoot-2-regressão-aula-2) — 4 perguntas
+- [Kahoot 3: Classificação (Aula 3)](../kahoots/16-data-analytics-2.md#kahoot-3-classificação-aula-3) — 5 perguntas
+- [Kahoot 4: Clusterização (Aula 4)](../kahoots/16-data-analytics-2.md#kahoot-4-clusterização-aula-4) — 4 perguntas
+- [Kahoot 5: NLP Básico (Aula 5)](../kahoots/16-data-analytics-2.md#kahoot-5-nlp-básico-aula-5) — 4 perguntas
+- [Kahoot 6: Pipelines e MLflow (Aula 6)](../kahoots/16-data-analytics-2.md#kahoot-6-pipelines-e-mlflow-aula-6) — 4 perguntas
+- [Kahoot 7: Deploy de Modelos (Aula 7)](../kahoots/16-data-analytics-2.md#kahoot-7-deploy-de-modelos-aula-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Projeto Final Data](../modulos/projeto-final-data.md)

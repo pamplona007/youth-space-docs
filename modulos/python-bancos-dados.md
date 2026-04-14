@@ -303,6 +303,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Python Intermediário - Strings, Arquivos, Módulos (Aula 1)](../kahoots/09-python-bancos-dados.md#kahoot-1-python-intermediário---strings-arquivos-módulos-aula-1) — 6 perguntas
+- [Kahoot 2: Orientação a Objetos (Aula 2)](../kahoots/09-python-bancos-dados.md#kahoot-2-orientação-a-objetos-aula-2) — 5 perguntas
+- [Kahoot 3: Tratamento de Exceções e Dicionários (Aula 3)](../kahoots/09-python-bancos-dados.md#kahoot-3-tratamento-de-exceções-e-dicionários-aula-3) — 5 perguntas
+- [Kahoot 4: SQL Básico (Aula 4)](../kahoots/09-python-bancos-dados.md#kahoot-4-sql-básico-aula-4) — 5 perguntas
+- [Kahoot 5: SQL Avançado - Joins e Agregações (Aula 5)](../kahoots/09-python-bancos-dados.md#kahoot-5-sql-avançado---joins-e-agregações-aula-5) — 5 perguntas
+- [Kahoot 6: SQLite com Python (Aula 6)](../kahoots/09-python-bancos-dados.md#kahoot-6-sqlite-com-python-aula-6) — 4 perguntas
+- [Kahoot 7: SQLAlchemy ORM (Aula 7)](../kahoots/09-python-bancos-dados.md#kahoot-7-sqlalchemy-orm-aula-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Rest Api Git](../modulos/rest-api-git.md)

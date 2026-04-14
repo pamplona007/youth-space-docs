@@ -305,6 +305,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: React Fundamentos e JSX (Aula 1)](../kahoots/07-reactjs.md#kahoot-1-react-fundamentos-e-jsx-aula-1) — 7 perguntas
+- [Kahoot 2: useState e Estado (Aula 2)](../kahoots/07-reactjs.md#kahoot-2-usestate-e-estado-aula-2) — 5 perguntas
+- [Kahoot 3: Renderização Condicional e Listas (Aula 3)](../kahoots/07-reactjs.md#kahoot-3-renderização-condicional-e-listas-aula-3) — 4 perguntas
+- [Kahoot 4: useEffect e Ciclo de Vida (Aula 4)](../kahoots/07-reactjs.md#kahoot-4-useeffect-e-ciclo-de-vida-aula-4) — 5 perguntas
+- [Kahoot 5: Context API (Aula 5)](../kahoots/07-reactjs.md#kahoot-5-context-api-aula-5) — 4 perguntas
+- [Kahoot 6: Hooks Customizados e React Router (Aula 6)](../kahoots/07-reactjs.md#kahoot-6-hooks-customizados-e-react-router-aula-6) — 5 perguntas
+- [Kahoot 7: Requisições HTTP e Boas Práticas (Aula 7)](../kahoots/07-reactjs.md#kahoot-7-requisições-http-e-boas-práticas-aula-7) — 3 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Ux Ui Figma](../modulos/ux-ui-figma.md)

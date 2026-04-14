@@ -88,6 +88,15 @@
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Variáveis, Tipos e Condicionais (Aula 1)](../kahoots/01-logica-python.md#kahoot-1-variáveis-tipos-e-condicionais-aula-1) — 10 perguntas
+- [Kahoot 2: Loops, Funções e Listas (Aula 2)](../kahoots/01-logica-python.md#kahoot-2-loops-funções-e-listas-aula-2) — 10 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Python Bancos Dados](../modulos/python-bancos-dados.md)

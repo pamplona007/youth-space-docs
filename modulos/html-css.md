@@ -149,6 +149,16 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: O Mundo Web e Tags (Aulas 1-2)](../kahoots/02-html-css.md#kahoot-1-o-mundo-web-e-tags-aula-1-2) — 8 perguntas
+- [Kahoot 2: CSS Seletores e Box Model (Aula 3)](../kahoots/02-html-css.md#kahoot-2-css-seletores-e-box-model-aula-3) — 7 perguntas
+- [Kahoot 3: CSS Grid e Responsividade (Aula 4)](../kahoots/02-html-css.md#kahoot-3-css-grid-e-responsividade-aula-4) — 7 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Javascript 1](../modulos/javascript-1.md)

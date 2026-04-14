@@ -299,6 +299,20 @@ Ao final do módulo, o aluno entrega:
 
 ---
 
+## Kahoot
+
+> Use no final de cada aula para revisar conteúdo com a turma.
+
+- [Kahoot 1: Git Básico (Aula 1)](../kahoots/06-nodejs-git-github.md#kahoot-1-git-básico-aula-1) — 7 perguntas
+- [Kahoot 2: GitHub e Colaboração (Aula 2)](../kahoots/06-nodejs-git-github.md#kahoot-2-github-e-colaboração-aula-2) — 7 perguntas
+- [Kahoot 3: Introdução ao Node.js (Aula 3)](../kahoots/06-nodejs-git-github.md#kahoot-3-introdução-ao-nodejs-aula-3) — 6 perguntas
+- [Kahoot 4: Express.js e Rotas (Aula 4)](../kahoots/06-nodejs-git-github.md#kahoot-4-expressjs-e-rotas-aula-4) — 5 perguntas
+- [Kahoot 5: REST API e CRUD (Aula 5)](../kahoots/06-nodejs-git-github.md#kahoot-5-rest-api-e-crud-aula-5) — 5 perguntas
+- [Kahoot 6: Autenticação JWT (Aula 6)](../kahoots/06-nodejs-git-github.md#kahoot-6-autenticação-jwt-aula-6) — 5 perguntas
+- [Kahoot 7: Boas Práticas e Estrutura (Aula 7)](../kahoots/06-nodejs-git-github.md#kahoot-7-boas-práticas-e-estrutura-aula-7) — 4 perguntas
+
+---
+
 ## Próximo módulo
 
 → [Reactjs](../modulos/reactjs.md)
