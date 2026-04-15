@@ -33,9 +33,9 @@ Após importar os CSVs, configure os relacionamentos na view de "Modelo":
 | categorias | 20 |
 | streamers | 50 |
 | calendario | 730 |
-| transmissoes | ~820 (com duplicatas) |
+| transmissoes | ~930 (com duplicatas e datas inválidas) |
 | usuarios | 3.000 |
-| doacoes | ~16.000 (com duplicatas) |
+| doacoes | ~15.450 (com duplicatas) |
 
 ---
 
@@ -158,6 +158,7 @@ Isso requer uma técnica de "merge":
    - Tipo: "Left Outer" (todos da esquerda)
 2. Expanda a nova coluna e marque apenas `id_streamer` (da direita)
 3. Filtre: onde a nova coluna for `null` → remover
+   - Isso remove tanto IDs órfãos (que não existem em `streamers`) quanto valores nulos
 4. Remova a coluna de merge depois
 
 **13. Transmissões Inválidas (IDs Órfãos)**
@@ -167,12 +168,29 @@ Mesmo processo do exercício 12:
 1. Merge `doacoes` com `transmissoes`:
    - `doacoes[id_transmissao]` ↔ `transmissoes[id_transmissao]`
 2. Filtre onde a coluna expandida for `null` → remover
+   - Isso remove tanto IDs órfãos quanto valores nulos
 3. Remova a coluna de merge
 
 **14. Mensagens de Doação**
 
 1. Clique com botão direito na coluna `mensagem` → "Substituir Valores"
 2. Substitua `(Vazio)` por "Sem mensagem"
+
+**14b. Status de Doação Inconsistente**
+
+1. Primeiro, veja os valores únicos de `status_doacao`:
+   - Clique no filtro → "Remover Vazio"
+   - Leia os valores: "Pendente", "Concluída", "Cancelada", "pendente", "CANCELADA", "concluida"
+2. Padronize manualmente:
+   - Substitua "pendente" → "Pendente"
+   - Substitua "CANCELADA" → "Cancelada"
+   - Substitua "concluida" → "Concluída"
+
+**14c. Datas de Doação Inválidas**
+
+1. Clique no filtro de `data`
+2. "Filtros de Data" → "Entre"
+3. Configure: de 01/01/2024 até 31/12/2025
 
 ---
 
@@ -193,11 +211,12 @@ Mesmo processo do exercício 12:
 
 1. Primeiro, veja os valores únicos:
    - Clique no filtro → "Remover Vazio"
-   - Leia os valores: "Ativa", "Encerrada", "Ao Vivo", "Cancelada"
-2. Padronize manualmente:
-   - Se encontrar "ativa" → substitua por "Ativa"
-   - Se encontrar "encerrado" → substitua por "Encerrada"
-   - Se encontrar "ao vivo" → substitua por "Ao Vivo"
+   - Leia os valores: "Ao Vivo", "Encerrada", "Cancelada", "Ativa", "ativa", "ENCERRADA", "Concluida"
+2. Padronize para "Ao Vivo", "Encerrada", "Cancelada":
+   - Substitua "Ativa" → remover (status não esperado)
+   - Substitua "ativa" → remover (status não esperado)
+   - Substitua "ENCERRADA" → "Encerrada"
+   - Substitua "Concluida" → "Cancelada" (ou "Encerrada", conforme decisão do grupo)
 
 ---
 
@@ -226,9 +245,9 @@ Mesmo processo do exercício 12:
 |--------|-------|--------|
 | categorias | 20 | 20 |
 | streamers | 50 | 50 |
-| transmissoes | ~820 | 800 |
-| usuarios | 3.000 | ~2.990 |
-| doacoes | ~16.000 | ~14.500 |
+| transmissoes | ~930 | ~800 |
+| usuarios | 3.000 | ~2.985 |
+| doacoes | ~15.450 | ~14.000 |
 | calendario | 730 | 730 |
 
 ---
@@ -253,6 +272,7 @@ Se aparecerem linhas, há IDs órfãos que não foram removidos.
    - `data`
    - `valor`
    - `id_streamer`
+   - `status_doacao`
 
 Repita para `transmissoes` e `streamers`.
 
@@ -268,9 +288,10 @@ Crie uma tabela simples no Power BI ou Excel:
 | Idades inválidas | Filtro de número (13 a 100) |
 | Valores <= 0 | Filtro de número (> 0) |
 | Outliers (> 10k) | Filtro de número (< 10000) |
-| IDs órfãos | Merge + filtrar nulls |
+| IDs órfãos / nulos | Merge + filtrar nulls |
 | Datas fora do período | Filtro de data (entre) |
 | Duração <= 0 | Filtro de número (> 0) |
+| Status inconsistente | Substituir Valores (padronizar um a um) |
 | Duplicatas | Página Inicial → Remover Duplicatas |
 | Mensagens vazias | Substituir Valores ("Sem mensagem") |
 

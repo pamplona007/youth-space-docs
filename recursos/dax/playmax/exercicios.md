@@ -95,6 +95,12 @@ Identifique doações que referenciam `id_transmissao` que não existe na tabela
 **14. Mensagens de Doação**
 Valores nulos ou vazios em `mensagem` são aceitáveis? Se não, preencha com "Sem mensagem".
 
+**14b. Status de Doação Inconsistente**
+Verifique valores únicos de `status_doacao`. Padronize para: "Pendente", "Concluída", "Cancelada" ( Title Case).
+
+**14c. Datas de Doação Inválidas**
+Identifique doações com `data` fora do período de 2024-2025. Remova essas linhas.
+
 ---
 
 ### Transmissões
@@ -131,7 +137,7 @@ Confirme que toda `doacao` tem uma `transmissao` válida.
 
 **22. Completude dos Dados**
 Verifique se há valores nulos em colunas críticas:
-- `doacoes`: `data`, `valor`, `id_streamer`
+- `doacoes`: `data`, `valor`, `id_streamer`, `status_doacao`
 - `transmissoes`: `data_inicio`, `duracao_min`
 - `streamers`: `nome_streamer`, `seguidores`
 
@@ -148,7 +154,7 @@ Crie uma tabela resumo explicando:
 > Após a limpeza, crie as seguintes colunas calculadas:
 
 **24. Receita Total por Streamer**
-Some o `valor` das doações para cada streamer (apenas status = "Concluída" se houvesse).
+Some o `valor` das doações para cada streamer (apenas `status_doacao` = "Concluída").
 
 **25. Tempo Total por Streamer**
 Some a `duracao_min` de todas as transmissões por streamer.

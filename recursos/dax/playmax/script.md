@@ -37,8 +37,11 @@ nomes_streamers = [
     "Rato", "Beleza", "BrTT", "Froskurinn", "Myth", "Shroud",
     "Ninja", "Pokimane", "TimTheTatman", "Sykkuno", "Valkyrae",
     "DrLupo", "Sacriel", "Summit1g", "Lirik", "HasanAbi",
-    "xQc", "Adin Ross", "Bugha", " Mong", "Fally", "LlAD", "MOW",
-    "Jovirone", "Cebrone", "M.ab", "El gato", "M_loko", "Pz"
+    "xQc", "AdinRoss", "Bugha", "Fally", "LlAD", "MOW",
+    "Jovirone", "Cebrone", "Mab", "Elgato", "Mloko", "Pz",
+    "Alford", "Jett", "Kerry", "Ember", "Flynn", "Dante",
+    "Cipher", "Nova", "Raven", "Blaze", "Frost", "Onix",
+    "Pixel", "Zara", "Luna", "Axel", "Roxy"
 ]
 
 cidades_brasil = [
@@ -48,7 +51,8 @@ cidades_brasil = [
 
 plataformas = ["PC", "PlayStation", "Xbox", "Celular", "Nintendo Switch"]
 tipos_doacao = ["Bits", "Pix", "Assinatura"]
-status_transmissao = ["Ativa", "Encerrada", "Ao Vivo", "Cancelada"]
+status_doacao = ["Pendente", "Concluída", "Cancelada", "pendente", "CANCELADA", "concluida"]
+status_transmissao = ["Ao Vivo", "Encerrada", "Cancelada", "Ativa", "ativa", "ENCERRADA", "Concluida"]
 
 # Gerador de texto com problemas
 def texto_com_problemas(texto):
@@ -138,14 +142,28 @@ transmissoes = []
 ids_usados = []
 
 for i in range(1, NUM_TRANSMISSOES + 1):
-    duracao = random.randint(30, 720)  # minutos
+    # Duração com possíveis problemas (5% inválida)
+    if random.random() < 0.05:
+        duracao = random.choice([0, -30, -100, random.randint(-500, -1)])
+    else:
+        duracao = random.randint(30, 720)  # minutos
     viewers = random.randint(50, 50000)
     streamer_id = random.randint(1, NUM_STREAMERS)
 
-    # Adicionar duplicatas (5% de chance)
+    # Data com possíveis problemas (8% fora do período)
+    if random.random() < 0.08:
+        data_idx = random.randint(-200, total_days + 200)
+        if data_idx < 0:
+            data_idx = random.randint(-200, -1)
+        elif data_idx > total_days:
+            data_idx = random.randint(total_days + 1, total_days + 200)
+        data_inicio = (start_date + timedelta(days=data_idx)).date()
+    else:
+        data_inicio = (start_date + timedelta(days=random.randint(0, total_days))).date()
+    # Adicionar duplicatas (8% de chance)
     num_registros = 1
-    if random.random() < 0.05:
-        num_registros = random.randint(2, 3)
+    if random.random() < 0.08:
+        num_registros = random.randint(2, 4)
 
     for r in range(num_registros):
         registro_id = i if r == 0 else i * 100 + r
@@ -155,7 +173,7 @@ for i in range(1, NUM_TRANSMISSOES + 1):
             "id_transmissao": registro_id,
             "id_streamer": streamer_id,
             "id_categoria": random.randint(1, NUM_CATEGORIAS),
-            "data_inicio": (start_date + timedelta(days=random.randint(0, total_days))).date(),
+            "data_inicio": data_inicio,
             "duracao_min": duracao,
             "viewers_pico": viewers,
             "status": random.choice(status_transmissao)
@@ -167,11 +185,16 @@ df_transmissoes = pd.DataFrame(transmissoes)
 usuarios = []
 for i in range(1, NUM_USUARIOS + 1):
     nome = f"user_{random.randint(1000, 9999)}"
+    # Idade com possíveis problemas (5% inválida)
+    if random.random() < 0.05:
+        idade = random.choice([0, 1, 8, 10, 12, 105, 120, 150, 200])
+    else:
+        idade = random.randint(16, 65)
     usuarios.append({
         "id_usuario": i,
         "nome_usuario": texto_com_problemas(nome),
         "cidade": random.choice(cidades_brasil),
-        "idade": random.randint(16, 65),
+        "idade": idade,
         "data_cadastro": (start_date + timedelta(days=random.randint(0, total_days))).date()
     })
 
@@ -204,15 +227,21 @@ for i in range(1, NUM_DOACOES + 1):
         data_idx = random.randint(0, total_days)
         data = start_date + timedelta(days=data_idx)
 
-    # Streamer ID - às vezes inválido (órfão)
-    if random.random() < 0.05:
-        streamer_id = random.randint(NUM_STREAMERS + 1, NUM_STREAMERS + 10)
+    # Streamer ID - às vezes inválido (órfão) ou nulo
+    rand = random.random()
+    if rand < 0.03:
+        streamer_id = None  # nulo
+    elif rand < 0.08:
+        streamer_id = random.randint(NUM_STREAMERS + 1, NUM_STREAMERS + 10)  # órfão
     else:
         streamer_id = random.randint(1, NUM_STREAMERS)
 
-    # Transmissão ID
-    if random.random() < 0.03:
-        trans_id = random.randint(NUM_TRANSMISSOES + 100, NUM_TRANSMISSOES + 500)
+    # Transmissão ID - às vezes inválida, órfã ou nula
+    rand2 = random.random()
+    if rand2 < 0.03:
+        trans_id = None  # nulo
+    elif rand2 < 0.07:
+        trans_id = random.randint(NUM_TRANSMISSOES + 100, NUM_TRANSMISSOES + 500)  # órfão
     else:
         trans_id = random.choice(ids_usados)
 
@@ -223,6 +252,7 @@ for i in range(1, NUM_DOACOES + 1):
         "id_streamer": streamer_id,
         "data": data.date(),
         "tipo": tipo,
+        "status_doacao": random.choice(status_doacao),
         "valor": valor,
         "mensagem": texto_com_problemas("Muito bom!") if random.random() < 0.3 else ""
     })
