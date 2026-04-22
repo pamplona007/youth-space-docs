@@ -313,6 +313,12 @@ Ao final do módulo, o aluno entrega:
 - [Exercicios](../recursos/dax/vendas-mais/exercicios.md)
 - [Resolucoes](../recursos/dax/vendas-mais/resolucoes.md)
 
+### Power BI + Python (Aula 7)
+
+- [Info](./power-bi-python/info.md) — Professor (teoria + passos detalhados)
+- [Exercicios](./power-bi-python/exercicios.md) — Aluno (enunciados)
+- [Resolucoes](./power-bi-python/resolucoes.md) — Gabarito
+
 ---
 
 ## Kahoot
