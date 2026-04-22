@@ -64,3 +64,39 @@ Exercícios práticos de DAX para Power BI.
 3. Abra os CSVs no Power BI (Power Query)
 4. Siga os exercícios em `playmax/exercicios.md`
 5. Confira as resoluções em `playmax/resolucoes.md`
+
+---
+
+### 3. FitLife+ — Academia (Fitness)
+
+**Tema:** Rede de academias no Nordeste brasileiro
+**Nível:** Intermediário
+**Foco:** FILTER + CALCULATE, iteradores (SUMX, AVERAGEX, MAXX, MINX), ranking (RANKX), segmentação (IF/SWITCH), churn e métricas estatísticas (MEDIAN, PERCENTILE, STDEV), variáveis (VAR/RETURN)
+
+**Arquivos em `fitlife-plus/`:**
+
+| Arquivo | Descrição |
+|---------|-----------|
+| [fitlife-plus/info.md](fitlife-plus/info.md) | Contexto da empresa e estrutura do banco de dados |
+| [fitlife-plus/script.md](fitlife-plus/script.md) | Script Python para gerar os CSVs do dataset |
+| [fitlife-plus/exercicios.md](fitlife-plus/exercicios.md) | Exercícios práticos (31 exercícios em 9 partes) |
+| [fitlife-plus/resolucoes.md](fitlife-plus/resolucoes.md) | Resoluções detalhadas com explicações |
+
+**Tópicos abordados:**
+- Faixas etárias e bandas de frequência de uso
+- FILTER dentro de CALCULATE com múltiplas condições
+- KEEPFILTERS para controle de contexto de filtro
+- Iteradores: SUMX, AVERAGEX, MAXX, MINX, CONCATENATEX
+- Ranking de instrutores e modalidades com RANKX e TOPN
+- Métricas de churn: taxa de cancelamento, membros ativos, veteranos
+- Medidas estatísticas: MEDIAN, PERCENTILE.INC, STDEVX.P
+- Variáveis VAR/RETURN para DAX legível e eficiente
+- Dashboard completo de retenção com alertas de churn
+
+**Sequência recomendada para FitLife+:**
+1. Leia o contexto em `fitlife-plus/info.md`
+2. Gere os dados com `fitlife-plus/script.md`
+3. Carregue os CSVs no Power BI e construa o modelo de dados
+4. Crie a tabela `calendario` como dimensão de data
+5. Siga os exercícios em `fitlife-plus/exercicios.md`
+6. Confira as resoluções em `fitlife-plus/resolucoes.md`
